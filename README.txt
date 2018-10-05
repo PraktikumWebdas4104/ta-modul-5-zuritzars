@@ -12,7 +12,7 @@ Format pengumpulan :
 TA5_NIM_NAMA.rar
 
 file .rar :
--SS
+-SS Hasil
 -file kodingan
 -file sql
 
